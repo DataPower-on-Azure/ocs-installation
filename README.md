@@ -15,7 +15,7 @@ cd toolkit-charts/stable/ocs-operator/
 - Then Terminate argo & sync again.
 
 > Note!
-> Make sure you uninstall the osc/odf operator from your cluster before you sync again.
+> Make sure you uninstall the ocs/odf operator from your cluster before you sync again.
 
 > COPY OF THEM HERE
 `Chart.yaml`
