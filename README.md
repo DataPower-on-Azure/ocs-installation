@@ -1,6 +1,6 @@
 - Manually update machinesets by copying the `resource group` & `image` from `worker nodes MACHINES` to our `MACHINESETS`
 - Go Stop the `autosync` on the `Machinesets.yaml`
-- Make sure that to terminate the sync on argo FROM INSIDE THE STORAGE.
+- Make sure to terminate the sync on argo FROM INSIDE THE STORAGE.
 ```bash
 cd multi-tenancy-gitops-infra/storage/
 ```
